@@ -1,9 +1,8 @@
 ---
-id: getting-started
-title: Getting Started
-category: Gameplay
-mod: Mystical Agriculture
-sort: 1
+id: prosperity-shard
+title: Prosperity Shard
+icon: https://raw.githubusercontent.com/BlakeBr0/MysticalAgriculture/1.19.3/src/main/resources/assets/mysticalagriculture/textures/item/prosperity_shard.png
+sort: 2
 ---
 
 ## Fundamental Materials
@@ -14,7 +13,7 @@ Inferium Essence can be obtained in multiple ways.
 - Ores
 - Mob Drops
 
-<text-image src="/img/mysticalagriculture/gameplay-getting-started-1.png">
+<text-image src="/img/guides/mysticalagriculture/gameplay-getting-started-1.png">
   Inferium Ore generated under ground.
 </text-image>
 
@@ -26,7 +25,7 @@ You can also get Inferium Essence by killing mobs. Every mob has about a 20% cha
 Prosperity Shards are obtained by mining Prosperity Ore in the ground. You can find the ore in the overworld at or below 
 Y level 50.
 
-<text-image src="/img/mysticalagriculture/gameplay-getting-started-2.png">
+<text-image src="/img/guides/mysticalagriculture/gameplay-getting-started-2.png">
   Prosperity Ore generated under ground.
 </text-image>
 
