@@ -53,11 +53,11 @@ To upgrade the tier of essence, you will need an Infusion Crystal.
 Next you are going to want to create some Seed Bases for use in the creation of any seeds you want.
 Normal resource seeds require some of their respective resource along with the tier essence of the seed.
 
-[Click here to view the Creating Seeds guide!](/guides/mysticalagriculture/gameplay/creating-seeds)
+[Click here to view the Creating Seeds guide!](/wiki/mysticalagriculture/guides/creating-seeds)
 
 Mob seeds require Soul Jars of their respective mob type. To collect souls, you need to have Soul Jars in your inventory and kill the mobs with a Soulium Dagger.
 
-[Click here to view the Collecting Mob Souls guide!](/guides/mysticalagriculture/gameplay/collecting-mob-souls)
+[Click here to view the Collecting Mob Souls guide!](/wiki/mysticalagriculture/guides/collecting-mob-souls)
 
 ## Growing Crops
 Resource Crops can be grown on any regular farmland. However, they will not drop additional seeds unless planted on Essence Farmland.
@@ -68,4 +68,4 @@ Growing resource crops on Essence Farmland adds a 10% chance of dropping a secon
 You can create tools and armor using the Inferium - Supremium essences.
 These require Essence Ingots.
 
-[Click here to view the Upgrading Essence Gear guide!](/guides/mysticalagriculture/gameplay/upgrading-essence-gear)
+[Click here to view the Upgrading Essence Gear guide!](/wiki/mysticalagriculture/guides/upgrading-essence-gear)
